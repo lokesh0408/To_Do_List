@@ -1,0 +1,109 @@
+* {
+    background-color: burlywood;
+    text-align: center;
+}
+
+#Radha {
+    color: darkblue;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 50px;
+}
+
+#krishna {
+    background-color: white;
+    height: 60px;
+    width: 350px;
+    padding-left: 10px;
+    margin-right: 5px;
+    text-align: left;
+    color: darkblue;
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+.Murari {
+    border-radius: 4px;
+    outline: grey;
+    border: 3px solid gray;
+}
+
+#Govind {
+    height: 68px;
+    width: 95px;
+    background-color: gainsboro;
+    color: black;
+    font-size: 15px;
+}
+
+#Govind:hover {
+    background-color: lightgray;
+}
+
+#krishna:hover {
+    border-color: blue;
+}
+
+
+li {
+
+    border: 0px solid gray;
+    background-color: lightseagreen;
+    height: 41px;
+    width: 440px;
+    list-style: none;
+    border-radius: 5px;
+    margin-left: 490px;
+    margin-bottom: 5px;
+    font-size: 28px;
+    padding-top: 8px;
+    text-align: left;
+}
+
+.complete-btn {
+    float: left;
+    background-color: lightseagreen;
+    height: 36px;
+    margin-left: 4px;
+    margin-right: 4px;
+    margin-bottom: 10px;
+    outline: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 23px;
+    /* margin: auto; */
+    overflow: hidden;
+    background: #ff6f47;
+}
+
+.gopal1 {
+    color: blue;
+    margin-bottom: 5px;
+}
+
+.gopal1:active {
+    /* background-color: lightseagreen; */
+    color: green;
+    transform: scale(1.1);
+}
+
+.gopal2 {
+    color: darkred;
+    margin-bottom: 5px;
+}
+
+.gopal2:active {
+    /* background-color: lightseagreen; */
+    color: darkgreen;
+    transform: scale(1.1);
+}
+
+.gopal {
+    /* background-color: lightcoral; */
+    color: red;
+}
+
+.gopal:active {
+    /* background-color: lightseagreen; */
+    /* color: darkorchid; */
+    transform: scale(1.1);
+}
